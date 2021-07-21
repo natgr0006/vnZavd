@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Lavanderia';
+    src: url('Lavanderia-Regular.eot');
+    src: local('Lavanderia Regular'), local('Lavanderia-Regular'),
+        url('Lavanderia-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Lavanderia-Regular.woff2') format('woff2'),
+        url('Lavanderia-Regular.woff') format('woff'),
+        url('Lavanderia-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
